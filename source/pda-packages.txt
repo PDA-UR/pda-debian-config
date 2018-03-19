@@ -211,8 +211,7 @@ M fontforge
 # foomatic-filters-ppds
 D freeglut3
 D freeglut3-dev
-# freemind
-# freemind-doc
+G freeplane
 ? freepats
 H fritzing
 # fslint
