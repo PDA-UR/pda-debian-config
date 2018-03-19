@@ -1,0 +1,13 @@
+Package: PACKAGE_NAME
+Version: 0.1
+Source: PACKAGE_NAME
+Section: tasks
+Priority: extra
+Maintainer: Raphael Wimmer <raphael.wimmer@ur.de>
+Standards-Version: 3.9.6
+Homepage: https://hci.ur.de/debian-packages
+Architecture: all
+Depends: DEPENDENCIES
+Description: Meta-package installing default packages for the PDA group
+ Some longer description that I first have to write
+
