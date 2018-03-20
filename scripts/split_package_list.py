@@ -17,7 +17,7 @@ F | fonts        | fonts
 N | network      | networking tools
 S | special      | specialized tools for various needs
 ? | unsorted     | stuff where I don't know what it is
-# | misc         | stuff that I'm not sure about
+# | ugly         | stuff that I'm not sure about
 '''
 
 def parse_categories(cat_list):
