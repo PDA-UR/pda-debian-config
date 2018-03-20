@@ -5,10 +5,9 @@ The scripts and raw lists for generating the packages are also included.
 
 Additional interesting tools that are not included in Debian:
 
-* Arduino IDE
+* [Arduino IDE](https://arduino.cc)
 * [Baudline](http://www.baudline.com/) - signal analyzer
-* Fritzing
-* [GitKraken](https://www.gitkraken.com/) - cross-platform Git GUI (commercial)
-* [Master PDF Editor)[https://code-industry.net/masterpdfeditor/] - cross-platform PDF editor (commercial)
-* Seafile
-* ViewGlob
+* [GitKraken](https://www.gitkraken.com/) - cross-platform Git GUI (commercial pro version)
+* [Master PDF Editor](https://code-industry.net/masterpdfeditor/) - cross-platform PDF editor (commercial)
+* [Seafile](https://www.seafile.com/en/home/)
+* [ViewGlob](https://github.com/sjbach/viewglob) 
