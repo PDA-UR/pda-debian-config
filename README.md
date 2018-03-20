@@ -1,4 +1,4 @@
-# PDA packages - some useful Debian packages 
+# pda-debian-config - some useful Debian packages 
 
 This repo contains a few small Debian metapackages (i.e., packages that do not contain any files but only define other packages that should be installed).
 The scripts and raw lists for generating the packages are also included.
