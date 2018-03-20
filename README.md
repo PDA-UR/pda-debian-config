@@ -3,11 +3,16 @@
 This repo contains a few small Debian metapackages (i.e., packages that do not contain any files but only define other packages that should be installed).
 The scripts and raw lists for generating the packages are also included.
 
-**Installing a package**:  ``apt install ./debs/pda-packages-base`` (the leading ``./`` is necessary for ``apt`` to recognize this as a local path).
+##Installing a package
+
+``apt install ./packages/pda-packages-base.deb`` 
+
+(the leading ``./`` is necessary for ``apt`` to recognize this as a local path).
+
 
 ## Contents of the packages:
 
-(the letter in the first column
+(the letter in the first column is used for tagging the package in ``source/pda-packages.txt``)
 
 | L | suffix       | description                                               |
 |---|--------------|-----------------------------------------------------------|
