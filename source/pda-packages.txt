@@ -388,6 +388,7 @@ S ocropus-data
 B odt2txt
 G okteta
 G okular
+D libopencv-dev
 D opencv-doc
 # openjdk-11-jdk
 # openjdk-11-doc
@@ -404,6 +405,7 @@ B pdfgrep
 # pdfjam
 B pdftk
 D pep8
+D pkg-config
 M playitslowly
 G plotdrop
 B poppler-utils
@@ -438,6 +440,7 @@ P python3-nbformat
 P python3-notebook
 P python3-numpy
 P python3-opengl
+P python3-opencv
 P python3-pandas
 P python3-pep8
 P python3-pil:amd64
