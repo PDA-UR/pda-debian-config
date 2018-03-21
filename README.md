@@ -41,3 +41,4 @@ Additional interesting tools that are not included in Debian:
 * [Master PDF Editor](https://code-industry.net/masterpdfeditor/) - cross-platform PDF editor (commercial)
 * [Seafile](https://www.seafile.com/en/home/)
 * [ViewGlob](https://github.com/sjbach/viewglob) 
+* [Zotero](https://www.zotero.org/download/) - literature management
